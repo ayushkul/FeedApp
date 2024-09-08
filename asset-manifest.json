@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FeedApp/static/css/main.4ad6dd19.css",
+    "main.js": "/FeedApp/static/js/main.6b405223.js",
+    "static/js/453.a6a97343.chunk.js": "/FeedApp/static/js/453.a6a97343.chunk.js",
+    "index.html": "/FeedApp/index.html",
+    "main.4ad6dd19.css.map": "/FeedApp/static/css/main.4ad6dd19.css.map",
+    "main.6b405223.js.map": "/FeedApp/static/js/main.6b405223.js.map",
+    "453.a6a97343.chunk.js.map": "/FeedApp/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ad6dd19.css",
+    "static/js/main.6b405223.js"
+  ]
+}
